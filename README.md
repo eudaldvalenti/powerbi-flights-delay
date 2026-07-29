@@ -84,5 +84,5 @@ Anàlisi de **5.8 milions de vols dels EUA el 2015** per identificar patrons de 
 
 ## 👤 Autor
 
-**Eudald** — PL-300 Microsoft Certified: Power BI Data Analyst  
+**Eudald Valentí Sarrà** — PL-300 Microsoft Certified: Power BI Data Analyst  
 [🔗 Certificació PL-300](https://learn.microsoft.com/api/credentials/share/en-gb/eudaldvalentisarra-7791/15650AE430BE5A11?sharingId=4ECDFAB7F1B78BAC)
