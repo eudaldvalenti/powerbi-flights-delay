@@ -9,19 +9,19 @@ Anàlisi de **5.8 milions de vols dels EUA el 2015** per identificar patrons de 
 ## 📊 Pàgines del Dashboard
 
 ### Pàgina 1 — Resum Executiu
-![Resum Executiu](Pagina1-Resum-Executiu.png)
+![Resum Executiu](Pagina1-Resum-Executiu.PNG)
 
 ### Pàgina 2 — Rendiment per Aerolínia
-![Rendiment per Aerolínia](Pagina2-Rendiment-per-Aerolínea.png)
+![Rendiment per Aerolínia](Pagina2-Rendiment-per-Aerolinea.PNG)
 
 ### Pàgina 3 — Anàlisi per Aeroports
-![Anàlisi per Aeroports](Pagina3-Anàlisi-per-aeroports.png)
+![Anàlisi per Aeroports](Pagina3-Analisi-per-aeroports.PNG)
 
 ### Pàgina 4 — Causes dels Retards
-![Causes dels Retards](Pagina4-Causes-dels-retards.png)
+![Causes dels Retards](Pagina4-Causes-dels-retards.PNG)
 
 ### Pàgina 5 — Evolució Temporal
-![Evolució Temporal](Pagina5-Evolucio-Temporal.png)
+![Evolució Temporal](Pagina5-Evolucio-Temporal.PNG)
 ## 🔍 Insights Principals
 
 - **Hawaiian Airlines** és l'aerolínia més puntual (89.50%), mentre que **Spirit Air Lines** és la pitjor (71.74%)
