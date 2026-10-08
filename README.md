@@ -3,7 +3,7 @@
 Anàlisi de **5.8 milions de vols dels EUA el 2015** per identificar patrons de retard, causes principals i rendiment per aerolínia i aeroport.
 
 ## 🔗 Dashboard Interactiu
-**[👉 Veure el dashboard en viu](https://app.powerbi.com/view?r=eyJrIjoiNThlMGMwM2QtYzY1OS00MDEzLWE1YmEtNDgxM2E1NjUxZGNhIiwidCI6ImI5YTE0ZTYxLTUyYjAtNDFhNC04OGY3LWYzYjNmNmQ1ZDgwZiIsImMiOjh9)**
+**[👉 Veure el dashboard en viu](https://app.powerbi.com/groups/me/reports/cd33e7e5-e568-421c-8314-25b71581455a?ctid=b9a14e61-52b0-41a4-88f7-f3b3f6d5d80f&pbi_source=linkShare)**
 
 ---
 ## 📊 Pàgines del Dashboard
